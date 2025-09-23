@@ -3,8 +3,12 @@
 ## Project Overview
 This project analyzes a coffee shop's operations over a 6 day period using sales, staffing, and inventory data . An interactive dashboard was developed to uncover insights on top selling items, peak hours, costs, staffing, and profit to make strategic data-driven decisions.
 
+---
+
 ## Data Source
 https://www.kaggle.com/datasets/viramatv/coffee-shop-data
+
+---
 
 ## Tools Used
 - **Excel - Data Cleaning and Formatiting:**
@@ -14,12 +18,16 @@ Queried mulitple datasets using joins & groupings, and created SQL views to prov
 - **Tableau - Data Visualization:**
 Connected tranformed data to build an interactive dashboard with KPIs and charts to provide data insights.
 
+---
+
 ## Goals & Insights
 - Provide KPIs like total sales, cost, revenue and profit for fast data driven decisions.
 - Identify reveneu & profit opportunities through houurly sale trends by item type/size.
 - Analyze customer preference by comparing dine-in vs. take-out behaviors.  
 - Optimize staff scheduling by examining employee hours, shifts, and labor cost.
 - Monitor inventory by tracking ingrdient usage, stock levels, and restocking needs.
+
+---
 
 ## Dashborad Preview
 <img width="2212" height="1010" alt="image" src="https://github.com/user-attachments/assets/81aba625-c967-4da2-912d-446445885497" />
