@@ -22,6 +22,7 @@ Connected tranformed data to build an interactive dashboard with KPIs and charts
 - Monitor inventory by tracking ingrdient usage, stock levels, and restocking needs.
 
 ## Dashborad Preview
-<img width="2212" height="1010" alt="image" src="https://github.com/user-attachments/assets/ac88b2cf-7738-4273-933e-2687c5095915" />
+<img width="2212" height="1010" alt="image" src="https://github.com/user-attachments/assets/81aba625-c967-4da2-912d-446445885497" />
+
 
 
