@@ -1,0 +1,467 @@
+item_name,item_type,item_size,date,time,quantity,item_price,customer_name,in_or_out
+Espresso,Hot Drinks,N/A,2/12/2024,7:04,1,2.15,Alex,out
+Hot Chocolate,Hot Drinks,Large,2/12/2024,7:09,1,4.6,Jordan,in
+Espresso,Hot Drinks,N/A,2/12/2024,7:14,1,2.15,Taylor,out
+Iced Tea,Cold Drinks,Medium,2/12/2024,7:18,1,3.25,Casey,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/12/2024,7:23,1,5.5,Jamie,out
+Cappuccino,Hot Drinks,Medium,2/12/2024,7:28,1,3.45,Morgan,in
+Cold Coffee,Cold Drinks,Large,2/12/2024,7:28,1,3.75,Morgan,in
+Flat White,Hot Drinks,N/A,2/12/2024,7:33,1,3.15,Riley,out
+Iced Tea,Cold Drinks,Large,2/12/2024,7:33,1,3.55,Riley,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/12/2024,7:39,1,4.2,Cameron,in
+Cold Mocha,Cold Drinks,Large,2/12/2024,7:39,1,4.6,Cameron,N/A
+Sandwich Ham&Cheese,Snacks,N/A,2/12/2024,7:44,1,5.6,Quinn,out
+White Mocha,Hot Drinks,Medium,2/12/2024,7:44,1,4.5,Quinn,N/A
+Sandwich Salami&Mozzarella,Snacks,N/A,2/12/2024,7:49,1,5.5,Peyton,out
+Hot Chocolate,Hot Drinks,Large,2/12/2024,7:49,1,4.6,Peyton,N/A
+Latte,Hot Drinks,Medium,2/12/2024,7:53,1,3.45,Brooke,out
+Caramel Macchiato,Hot Drinks,Large,2/12/2024,7:58,1,4.6,Blake,out
+Mocha,Hot Drinks,Medium,2/12/2024,8:03,1,4,Charlie,in
+Lemonade,Cold Drinks,Medium,2/12/2024,8:03,1,3.35,Charlie,N/A
+White Mocha,Hot Drinks,Large,2/12/2024,8:08,1,4.7,Dakota,in
+Lemonade,Cold Drinks,Large,2/12/2024,8:08,1,3.75,Dakota,N/A
+Latte,Hot Drinks,Large,2/12/2024,8:12,1,3.75,Emerson,out
+Cappuccino,Hot Drinks,Large,2/12/2024,8:17,1,3.75,Finley,out
+Cappuccino,Hot Drinks,Medium,2/12/2024,8:22,1,3.45,Harper,in
+Hot Chocolate,Hot Drinks,Large,2/12/2024,8:26,1,4.6,Jordan,out
+White Mocha,Hot Drinks,Medium,2/12/2024,8:31,1,4.5,Kendall,in
+Cold Mocha,Cold Drinks,Medium,2/12/2024,8:36,1,4,Logan,out
+Iced Tea,Cold Drinks,Large,2/12/2024,8:36,1,3.55,Logan,N/A
+Flat White,Hot Drinks,N/A,2/12/2024,8:41,1,3.15,Morgan,out
+Caramel Macchiato,Hot Drinks,Medium,2/12/2024,8:45,1,4.2,Parker,in
+Hot Chocolate,Hot Drinks,Large,2/12/2024,8:45,1,4.6,Peyton,N/A
+Espresso,Hot Drinks,N/A,2/12/2024,8:50,1,2.15,Alex,out
+Cold Coffee,Cold Drinks,Large,2/12/2024,8:55,1,3.75,Jordan,out
+Caramel Macchiato,Hot Drinks,Medium,2/12/2024,9:00,1,4.2,Taylor,out
+Iced Tea,Cold Drinks,Medium,2/12/2024,9:04,1,3.25,Casey,in
+Mocha,Hot Drinks,Medium,2/12/2024,9:09,1,4,Jamie,out
+Cappuccino,Hot Drinks,Medium,2/12/2024,9:14,1,3.45,Morgan,in
+Cold Coffee,Cold Drinks,Large,2/12/2024,9:14,1,3.75,Morgan,N/A
+Flat White,Hot Drinks,N/A,2/12/2024,9:19,1,3.15,Riley,in
+Iced Tea,Cold Drinks,Large,2/12/2024,9:19,1,3.55,Riley,N/A
+White Mocha,Hot Drinks,Large,2/12/2024,9:19,1,4.7,Riley,N/A
+Latte,Hot Drinks,Large,2/12/2024,9:35,1,3.75,Jordan,out
+Lemonade,Cold Drinks,Medium,2/12/2024,9:48,1,3.35,Harper,out
+Caramel Macchiato,Hot Drinks,Large,2/12/2024,10:02,1,4.6,Casey,out
+Cold Mocha,Cold Drinks,Medium,2/12/2024,10:33,1,4,Alex,in
+Mocha,Hot Drinks,Medium,2/12/2024,10:50,1,4,Jamie,out
+Cold Mocha,Cold Drinks,Large,2/12/2024,11:08,1,4.6,Taylor,out
+Flat White,Hot Drinks,N/A,2/12/2024,11:27,1,3.15,Quinn,in
+Cappuccino,Hot Drinks,Large,2/12/2024,11:27,1,3.75,Quinn,N/A
+Cold Coffee,Cold Drinks,Medium,2/12/2024,12:08,1,3.45,Peyton,in
+Latte,Hot Drinks,Medium,2/12/2024,12:08,1,3.45,Peyton,N/A
+Cold Coffee,Cold Drinks,Large,2/12/2024,12:08,1,3.75,Peyton,N/A
+Flat White,Hot Drinks,N/A,2/12/2024,12:10,1,3.15,Riley,out
+Iced Tea,Cold Drinks,Large,2/12/2024,12:10,1,3.55,Riley,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/12/2024,12:11,1,4.2,Cameron,out
+Cold Mocha,Cold Drinks,Large,2/12/2024,12:11,1,4.6,Cameron,N/A
+Sandwich Ham&Cheese,Snacks,N/A,2/12/2024,12:16,1,5.6,Quinn,in
+White Mocha,Hot Drinks,Medium,2/12/2024,12:16,1,4.5,Quinn,N/A
+White Mocha,Hot Drinks,Medium,2/12/2024,12:16,1,4.5,Quinn,N/A
+Latte,Hot Drinks,Large,2/12/2024,12:18,1,3.75,Taylor,out
+Lemonade,Cold Drinks,Large,2/12/2024,12:21,1,3.75,Jamie,out
+Cold Mocha,Cold Drinks,Large,2/12/2024,12:23,1,4.6,Riley,out
+Cold Mocha,Cold Drinks,Medium,2/12/2024,12:26,1,4,Alex,in
+Mocha,Hot Drinks,Medium,2/12/2024,12:29,1,4,Casey,out
+Mocha,Hot Drinks,Medium,2/12/2024,12:32,1,4,Brooke,out
+White Mocha,Hot Drinks,Large,2/12/2024,12:35,1,4.7,Jordan,out
+Flat White,Hot Drinks,N/A,2/12/2024,12:38,1,3.15,Peyton,in
+Iced Tea,Cold Drinks,Medium,2/12/2024,12:41,1,3.25,Morgan,out
+Iced Tea,Cold Drinks,Large,2/12/2024,12:44,1,3.55,Harper,in
+Lemonade,Cold Drinks,Medium,2/12/2024,12:47,1,3.35,Cameron,out
+Hot Chocolate,Hot Drinks,Large,2/12/2024,12:50,1,4.6,Avery,in
+Cold Coffee,Cold Drinks,Large,2/12/2024,12:53,1,3.75,Quinn,out
+Sandwich Ham&Cheese,Snacks,N/A,2/12/2024,12:56,1,5.6,Taylor,out
+Iced Tea,Cold Drinks,Large,2/12/2024,12:59,1,3.55,Jamie,out
+Hot Chocolate,Hot Drinks,Medium,2/12/2024,13:02,1,4.2,Riley,in
+Cappuccino,Hot Drinks,Medium,2/12/2024,13:05,1,3.45,Alex,out
+Latte,Hot Drinks,Medium,2/12/2024,13:08,1,3.45,Casey,in
+Espresso,Hot Drinks,N/A,2/12/2024,13:11,1,2.15,Brooke,out
+Cappuccino,Hot Drinks,Large,2/12/2024,13:13,1,3.75,Harper,in
+Caramel Macchiato,Hot Drinks,Large,2/12/2024,13:13,1,4.6,Harper,N/A
+Iced Tea,Cold Drinks,Medium,2/12/2024,13:15,1,3.25,Jordan,out
+Lemonade,Cold Drinks,Medium,2/12/2024,13:17,1,3.35,Avery,out
+Flat White,Hot Drinks,N/A,2/12/2024,13:17,1,3.15,Avery,N/A
+Hot Chocolate,Hot Drinks,Large,2/12/2024,13:17,1,4.6,Avery,N/A
+Latte,Hot Drinks,Large,2/12/2024,13:20,1,3.75,Casey,in
+Latte,Hot Drinks,Medium,2/12/2024,13:20,1,3.45,Casey,N/A
+White Mocha,Hot Drinks,Large,2/12/2024,13:22,1,4.7,Taylor,out
+Mocha,Hot Drinks,Medium,2/12/2024,13:22,1,4,Taylor,N/A
+Cold Mocha,Cold Drinks,Large,2/12/2024,13:25,1,4.6,Riley,out
+Lemonade,Cold Drinks,Large,2/12/2024,13:25,1,3.75,Riley,N/A
+White Mocha,Hot Drinks,Medium,2/12/2024,13:27,1,4.5,Jamie,out
+Cold Coffee,Cold Drinks,Medium,2/12/2024,13:27,1,3.45,Jamie,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/12/2024,13:30,1,4.2,Morgan,out
+Lemonade,Cold Drinks,Large,2/12/2024,13:30,1,3.75,Morgan,N/A
+Mocha,Hot Drinks,Large,2/12/2024,13:32,1,4.6,Quinn,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/12/2024,13:32,1,5.5,Quinn,N/A
+Cappuccino,Hot Drinks,Medium,2/12/2024,13:35,1,3.45,Peyton,in
+Cold Mocha,Cold Drinks,Medium,2/12/2024,13:35,1,4,Peyton,N/A
+Iced Tea,Cold Drinks,Large,2/12/2024,13:55,1,3.55,Alex,out
+Lemonade,Cold Drinks,Medium,2/12/2024,14:05,1,3.35,Harper,in
+Latte,Hot Drinks,Large,2/12/2024,14:17,1,3.75,Taylor,out
+Hot Chocolate,Hot Drinks,Medium,2/12/2024,14:17,1,4.2,Taylor,N/A
+Cold Mocha,Cold Drinks,Large,2/12/2024,14:30,1,4.6,Jordan,in
+Caramel Macchiato,Hot Drinks,Large,2/12/2024,14:45,1,4.6,Casey,in
+White Mocha,Hot Drinks,Medium,2/12/2024,14:45,1,4.5,Casey,N/A
+Hot Chocolate,Hot Drinks,Medium,2/12/2024,15:00,1,4.2,Riley,out
+Mocha,Hot Drinks,Medium,2/12/2024,15:20,1,4,Jamie,in
+Latte,Hot Drinks,Medium,2/12/2024,15:20,1,3.45,Jamie,N/A
+Hot Chocolate,Hot Drinks,Large,2/12/2024,15:40,1,4.6,Morgan,out
+Lemonade,Cold Drinks,Large,2/12/2024,15:40,1,3.75,Morgan,N/A
+Flat White,Hot Drinks,N/A,2/12/2024,16:00,1,3.15,Brooke,out
+Cold Mocha,Cold Drinks,Medium,2/12/2024,16:25,1,4,Avery,out
+White Mocha,Hot Drinks,Large,2/12/2024,16:50,1,4.7,Quinn,out
+Cappuccino,Hot Drinks,Medium,2/12/2024,17:00,1,3.45,Sam,out
+Cappuccino,Hot Drinks,Large,2/13/2024,7:14,1,3.75,Anna,out
+Latte,Hot Drinks,Large,2/13/2024,7:19,1,3.75,Chris,in
+Cold Mocha,Cold Drinks,Medium,2/13/2024,7:24,1,4,Pat,out
+Sandwich Ham&Cheese,Snacks,N/A,2/13/2024,7:30,1,5.6,Alex,in
+White Mocha,Hot Drinks,Medium,2/13/2024,7:30,1,4.5,Alex,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/13/2024,7:35,1,4.2,Jordan,out
+Lemonade,Cold Drinks,Medium,2/13/2024,7:40,1,3.35,Taylor,in
+Cold Coffee,Cold Drinks,Medium,2/13/2024,7:45,1,3.45,Casey,out
+Espresso,Hot Drinks,N/A,2/13/2024,7:50,1,2.15,Jamie,in
+Sandwich Salami&Mozzarella,Snacks,N/A,2/13/2024,7:50,1,5.5,Jamie,N/A
+Cappuccino,Hot Drinks,Medium,2/13/2024,7:56,1,3.45,Morgan,out
+Iced Tea,Cold Drinks,Medium,2/13/2024,8:01,1,3.25,Riley,in
+Latte,Hot Drinks,Medium,2/13/2024,8:06,1,3.45,Cameron,out
+Lemonade,Cold Drinks,Large,2/13/2024,8:11,1,3.75,Quinn,in
+Cold Mocha,Cold Drinks,Large,2/13/2024,8:17,1,4.6,Peyton,out
+Flat White,Hot Drinks,N/A,2/13/2024,8:22,1,3.15,Brooke,in
+White Mocha,Hot Drinks,Large,2/13/2024,8:22,1,4.7,Brooke,N/A
+Mocha,Hot Drinks,Large,2/13/2024,8:27,1,4.6,Sam,out
+Caramel Macchiato,Hot Drinks,Large,2/13/2024,8:32,1,4.6,Alex,in
+Iced Tea,Cold Drinks,Large,2/13/2024,8:38,1,3.55,Pat,N/A
+Hot Chocolate,Hot Drinks,Large,2/13/2024,8:43,1,4.6,Chris,in
+Mocha,Hot Drinks,Medium,2/13/2024,8:48,1,4,Jordan,out
+Cappuccino,Hot Drinks,Large,2/13/2024,8:53,1,3.75,Taylor,in
+Cold Coffee,Cold Drinks,Large,2/13/2024,8:53,1,3.75,Taylor,N/A
+Hot Chocolate,Hot Drinks,Medium,2/13/2024,8:58,1,4.2,Casey,out
+Latte,Hot Drinks,Large,2/13/2024,9:09,1,3.75,Morgan,out
+Lemonade,Cold Drinks,Medium,2/13/2024,9:14,1,3.35,Riley,in
+Caramel Macchiato,Hot Drinks,Medium,2/13/2024,9:19,1,4.2,Cameron,out
+Iced Tea,Cold Drinks,Medium,2/13/2024,9:25,1,3.25,Quinn,in
+Latte,Hot Drinks,Medium,2/13/2024,9:30,1,3.45,Peyton,out
+Lemonade,Cold Drinks,Large,2/13/2024,9:35,1,3.75,Brooke,in
+White Mocha,Hot Drinks,Large,2/13/2024,9:35,1,4.7,Brooke,N/A
+Cold Mocha,Cold Drinks,Large,2/13/2024,9:40,1,4.6,Sam,out
+Flat White,Hot Drinks,N/A,2/13/2024,9:46,1,3.15,Alex,in
+Hot Chocolate,Hot Drinks,Large,2/13/2024,9:56,1,4.6,Chris,in
+Mocha,Hot Drinks,Medium,2/13/2024,10:01,1,4,Jordan,out
+Flat White,Hot Drinks,N/A,2/13/2024,10:31,1,3.15,Casey,out
+Hot Chocolate,Hot Drinks,Large,2/13/2024,10:45,1,4.6,Riley,in
+Sandwich Ham&Cheese,Snacks,N/A,2/13/2024,10:45,1,5.6,Riley,N/A
+Cold Mocha,Cold Drinks,Large,2/13/2024,11:00,1,4.6,Jamie,out
+Cappuccino,Hot Drinks,Large,2/13/2024,11:15,1,3.75,Alex,in
+White Mocha,Hot Drinks,Medium,2/13/2024,11:29,1,4.5,Sam,out
+Iced Tea,Cold Drinks,Large,2/13/2024,11:43,1,3.55,Quinn,N/A
+Espresso,Hot Drinks,N/A,2/13/2024,11:57,1,2.15,Pat,out
+Lemonade,Cold Drinks,Large,2/13/2024,12:03,1,3.75,Chris,in
+Latte,Hot Drinks,Large,2/13/2024,12:10,1,3.75,Alex,out
+Cold Coffee,Cold Drinks,Medium,2/13/2024,12:17,1,3.45,Jordan,in
+Cold Mocha,Cold Drinks,Large,2/13/2024,12:24,1,4.6,Morgan,N/A
+Caramel Macchiato,Hot Drinks,Large,2/13/2024,12:31,1,4.6,Taylor,in
+Iced Tea,Cold Drinks,Large,2/13/2024,12:38,1,3.55,Casey,out
+Latte,Hot Drinks,Medium,2/13/2024,12:45,1,3.45,Jamie,in
+Cold Coffee,Cold Drinks,Large,2/13/2024,12:52,1,3.75,Riley,out
+Mocha,Hot Drinks,Medium,2/13/2024,12:59,1,4,Cameron,in
+White Mocha,Hot Drinks,Large,2/13/2024,13:06,1,4.7,Quinn,out
+Cappuccino,Hot Drinks,Medium,2/13/2024,13:13,1,3.45,Peyton,in
+Iced Tea,Cold Drinks,Medium,2/13/2024,13:20,1,3.25,Brooke,out
+Flat White,Hot Drinks,N/A,2/13/2024,13:27,1,3.15,Sam,in
+White Mocha,Hot Drinks,Medium,2/13/2024,13:27,1,4.5,Sam,N/A
+Mocha,Hot Drinks,Large,2/13/2024,13:41,1,4.6,Alex,in
+Sandwich Salami&Mozzarella,Snacks,N/A,2/13/2024,13:48,1,5.5,Chris,out
+Cold Mocha,Cold Drinks,Medium,2/13/2024,13:55,1,4,Jordan,in
+Lemonade,Cold Drinks,Medium,2/13/2024,13:55,1,3.35,Jordan,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/13/2024,14:03,1,4.2,Morgan,out
+Sandwich Ham&Cheese,Snacks,N/A,2/13/2024,14:10,1,5.6,Taylor,in
+Cappuccino,Hot Drinks,Large,2/13/2024,14:30,1,3.75,Jordan,out
+Cold Mocha,Cold Drinks,Large,2/13/2024,14:50,1,4.6,Chris,in
+Flat White,Hot Drinks,N/A,2/13/2024,15:10,1,3.15,Alex,out
+White Mocha,Hot Drinks,Medium,2/13/2024,15:50,1,4.5,Taylor,out
+Latte,Hot Drinks,Large,2/13/2024,16:09,1,3.75,Casey,in
+Hot Chocolate,Hot Drinks,Large,2/13/2024,16:29,1,4.6,Jamie,out
+Lemonade,Cold Drinks,Medium,2/13/2024,16:49,1,3.35,Riley,in
+Caramel Macchiato,Hot Drinks,Large,2/13/2024,17:00,1,4.6,Cameron,out
+Cappuccino,Hot Drinks,Medium,2/14/2024,7:06,1,3.45,Elvis,out
+Hot Chocolate,Hot Drinks,Large,2/14/2024,7:13,1,4.6,Jordan,in
+Espresso,Hot Drinks,N/A,2/14/2024,7:27,1,2.15,Alex,in
+Lemonade,Cold Drinks,Large,2/14/2024,7:27,1,3.75,Alex,N/A
+Cold Mocha,Cold Drinks,Medium,2/14/2024,7:34,1,4,Morgan,out
+Flat White,Hot Drinks,N/A,2/14/2024,7:41,1,3.15,Taylor,in
+Sandwich Ham&Cheese,Snacks,N/A,2/14/2024,7:49,1,5.6,Casey,out
+White Mocha,Hot Drinks,Medium,2/14/2024,7:56,1,4.5,Jamie,in
+Iced Tea,Cold Drinks,Medium,2/14/2024,8:03,1,3.25,Riley,out
+Latte,Hot Drinks,Medium,2/14/2024,8:10,1,3.45,Cameron,in
+Caramel Macchiato,Hot Drinks,Medium,2/14/2024,8:24,1,4.2,Peyton,in
+Iced Tea,Cold Drinks,Large,2/14/2024,8:31,1,3.55,Brooke,out
+Mocha,Hot Drinks,Large,2/14/2024,8:38,1,4.6,Sam,in
+Caramel Macchiato,Hot Drinks,Large,2/14/2024,8:45,1,4.6,Pat,N/A
+Hot Chocolate,Hot Drinks,Medium,2/14/2024,8:53,1,4.2,Alex,in
+Latte,Hot Drinks,Large,2/14/2024,9:07,1,3.75,Chris,in
+Cold Coffee,Cold Drinks,Large,2/14/2024,9:14,1,3.75,Morgan,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/14/2024,9:21,1,5.5,Taylor,in
+White Mocha,Hot Drinks,Large,2/14/2024,9:28,1,4.7,Casey,out
+Mocha,Hot Drinks,Medium,2/14/2024,9:35,1,4,Jamie,in
+Cappuccino,Hot Drinks,Large,2/14/2024,9:42,1,3.75,Riley,out
+Cold Mocha,Cold Drinks,Large,2/14/2024,9:49,1,4.6,Cameron,in
+Lemonade,Cold Drinks,Medium,2/14/2024,9:57,1,3.35,Quinn,out
+Cold Coffee,Cold Drinks,Medium,2/14/2024,10:04,1,3.45,Brooke,in
+Caramel Macchiato,Hot Drinks,Large,2/14/2024,10:21,1,4.6,Sam,out
+Cappuccino,Hot Drinks,Medium,2/14/2024,10:55,1,3.45,Alex,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/14/2024,11:12,1,5.5,Jordan,in
+Cold Mocha,Cold Drinks,Large,2/14/2024,11:29,1,4.6,Chris,out
+Lemonade,Cold Drinks,Large,2/14/2024,11:29,1,3.75,Chris,N/A
+White Mocha,Hot Drinks,Large,2/14/2024,11:46,1,4.7,Morgan,in
+Latte,Hot Drinks,Medium,2/14/2024,12:03,1,3.45,Taylor,out
+Cold Coffee,Cold Drinks,Large,2/14/2024,12:10,1,3.75,Casey,in
+Mocha,Hot Drinks,Medium,2/14/2024,12:17,1,4,Jamie,out
+Flat White,Hot Drinks,N/A,2/14/2024,12:31,1,3.15,Cameron,out
+White Mocha,Hot Drinks,Medium,2/14/2024,12:31,1,4.5,Cameron,N/A
+Hot Chocolate,Hot Drinks,Large,2/14/2024,12:38,1,4.6,Quinn,in
+Iced Tea,Cold Drinks,Large,2/14/2024,12:45,1,3.55,Peyton,out
+Caramel Macchiato,Hot Drinks,Medium,2/14/2024,12:52,1,4.2,Brooke,in
+Lemonade,Cold Drinks,Large,2/14/2024,13:00,1,3.75,Sam,out
+Cold Mocha,Cold Drinks,Medium,2/14/2024,13:08,1,4,Pat,in
+Mocha,Hot Drinks,Large,2/14/2024,13:15,1,4.6,Alex,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/14/2024,13:22,1,5.5,Jordan,in
+Espresso,Hot Drinks,N/A,2/14/2024,13:22,1,2.15,Jordan,N/A
+Cappuccino,Hot Drinks,Medium,2/14/2024,13:29,1,3.45,Chris,out
+Iced Tea,Cold Drinks,Medium,2/14/2024,13:36,1,3.25,Morgan,in
+Hot Chocolate,Hot Drinks,Medium,2/14/2024,13:43,1,4.2,Taylor,out
+Latte,Hot Drinks,Large,2/14/2024,13:57,1,3.75,Jamie,out
+Lemonade,Cold Drinks,Medium,2/14/2024,14:05,1,3.35,Riley,in
+Cappuccino,Hot Drinks,Large,2/14/2024,14:05,1,3.75,Riley,N/A
+Cold Mocha,Cold Drinks,Large,2/14/2024,14:12,1,4.6,Cameron,out
+Caramel Macchiato,Hot Drinks,Large,2/14/2024,14:26,1,4.6,Peyton,out
+White Mocha,Hot Drinks,Large,2/14/2024,14:33,1,4.7,Brooke,in
+Cold Coffee,Cold Drinks,Medium,2/14/2024,14:47,1,3.45,Pat,in
+Cappuccino,Hot Drinks,Large,2/14/2024,15:04,1,3.75,Alex,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/14/2024,15:22,1,5.5,Jordan,in
+Cold Mocha,Cold Drinks,Large,2/14/2024,15:41,1,4.6,Chris,out
+White Mocha,Hot Drinks,Medium,2/14/2024,15:59,1,4.5,Morgan,in
+Flat White,Hot Drinks,N/A,2/14/2024,16:17,1,3.15,Taylor,out
+Cold Mocha,Cold Drinks,Medium,2/14/2024,16:35,1,4,Casey,in
+Mocha,Hot Drinks,Medium,2/14/2024,16:53,1,4,Jamie,out
+Latte,Hot Drinks,Medium,2/15/2024,7:02,1,3.45,Anna,out
+Cold Mocha,Cold Drinks,Medium,2/15/2024,7:09,1,4,Bob,in
+Lemonade,Cold Drinks,Medium,2/15/2024,7:09,1,3.35,Bob,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/15/2024,7:16,1,4.2,Carol,out
+White Mocha,Hot Drinks,Medium,2/15/2024,7:30,1,4.5,Eve,out
+Hot Chocolate,Hot Drinks,Large,2/15/2024,7:30,1,4.6,Eve,N/A
+Cappuccino,Hot Drinks,Medium,2/15/2024,7:37,1,3.45,Frank,in
+Iced Tea,Cold Drinks,Medium,2/15/2024,7:44,1,3.25,Grace,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/15/2024,7:52,1,5.5,Helen,in
+Flat White,Hot Drinks,N/A,2/15/2024,7:59,1,3.15,Ian,out
+Espresso,Hot Drinks,N/A,2/15/2024,7:59,1,2.15,Ian,N/A
+Mocha,Hot Drinks,Large,2/15/2024,8:06,1,4.6,Jenny,in
+Hot Chocolate,Hot Drinks,Medium,2/15/2024,8:13,1,4.2,Kyle,out
+Cold Coffee,Cold Drinks,Large,2/15/2024,8:20,1,3.75,Laura,in
+Lemonade,Cold Drinks,Large,2/15/2024,8:20,1,3.75,Laura,N/A
+Caramel Macchiato,Hot Drinks,Large,2/15/2024,8:34,1,4.6,Nina,in
+Cold Mocha,Cold Drinks,Large,2/15/2024,8:41,1,4.6,Oscar,out
+Latte,Hot Drinks,Large,2/15/2024,8:48,1,3.75,Paula,in
+Mocha,Hot Drinks,Medium,2/15/2024,8:56,1,4,Quinn,out
+Cappuccino,Hot Drinks,Large,2/15/2024,9:03,1,3.75,Rachel,in
+Iced Tea,Cold Drinks,Large,2/15/2024,9:10,1,3.55,Steve,out
+White Mocha,Hot Drinks,Large,2/15/2024,9:17,1,4.7,Tina,in
+Cold Coffee,Cold Drinks,Medium,2/15/2024,9:24,1,3.45,Umar,out
+Sandwich Ham&Cheese,Snacks,N/A,2/15/2024,9:31,1,5.6,Victor,in
+Espresso,Hot Drinks,N/A,2/15/2024,9:38,1,2.15,Wendy,out
+White Mocha,Hot Drinks,Large,2/15/2024,9:48,1,4.7,Alice,in
+Lemonade,Cold Drinks,Medium,2/15/2024,10:04,1,3.35,Bob,out
+Latte,Hot Drinks,Large,2/15/2024,10:20,1,3.75,Charlie,in
+Mocha,Hot Drinks,Medium,2/15/2024,10:52,1,4,Evan,in
+Cold Mocha,Cold Drinks,Large,2/15/2024,11:08,1,4.6,Fiona,out
+Lemonade,Cold Drinks,Large,2/15/2024,11:08,1,3.75,Fiona,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/15/2024,11:24,1,4.2,George,in
+Cold Coffee,Cold Drinks,Large,2/15/2024,11:40,1,3.75,Hannah,out
+Cappuccino,Hot Drinks,Medium,2/15/2024,11:56,1,3.45,Ian,in
+Caramel Macchiato,Hot Drinks,Large,2/15/2024,12:06,1,4.6,Jake,out
+Iced Tea,Cold Drinks,Medium,2/15/2024,12:12,1,3.25,Karen,in
+Sandwich Ham&Cheese,Snacks,N/A,2/15/2024,12:12,1,5.6,Karen,N/A
+Cappuccino,Hot Drinks,Large,2/15/2024,12:18,1,3.75,Leo,out
+Cold Coffee,Cold Drinks,Medium,2/15/2024,12:24,1,3.45,Mia,in
+Mocha,Hot Drinks,Large,2/15/2024,12:30,1,4.6,Noah,out
+Flat White,Hot Drinks,N/A,2/15/2024,12:42,1,3.15,Paul,out
+Hot Chocolate,Hot Drinks,Medium,2/15/2024,12:48,1,4.2,Quinn,in
+Iced Tea,Cold Drinks,Large,2/15/2024,12:54,1,3.55,Riley,out
+Espresso,Hot Drinks,N/A,2/15/2024,12:54,1,2.15,Riley,N/A
+Sandwich Salami&Mozzarella,Snacks,N/A,2/15/2024,13:00,1,5.5,Sam,in
+White Mocha,Hot Drinks,Medium,2/15/2024,13:06,1,4.5,Tina,out
+Cold Mocha,Cold Drinks,Medium,2/15/2024,13:12,1,4,Umar,in
+Latte,Hot Drinks,Medium,2/15/2024,13:18,1,3.45,Victor,out
+Hot Chocolate,Hot Drinks,Large,2/15/2024,13:24,1,4.6,Wendy,in
+Cappuccino,Hot Drinks,Medium,2/15/2024,13:30,1,3.45,Xavier,out
+Mocha,Hot Drinks,Medium,2/15/2024,13:36,1,4,Yara,in
+Cold Mocha,Cold Drinks,Large,2/15/2024,13:42,1,4.6,Zoe,out
+Latte,Hot Drinks,Large,2/15/2024,13:48,1,3.75,Amy,in
+Lemonade,Cold Drinks,Medium,2/15/2024,13:54,1,3.35,Brad,out
+Caramel Macchiato,Hot Drinks,Medium,2/15/2024,14:00,1,4.2,Cindy,in
+Lemonade,Cold Drinks,Large,2/15/2024,14:06,1,3.75,Derek,out
+White Mocha,Hot Drinks,Large,2/15/2024,14:12,1,4.7,Eliza,in
+Cold Coffee,Cold Drinks,Large,2/15/2024,14:24,1,3.75,Gigi,in
+Espresso,Hot Drinks,N/A,2/15/2024,14:36,1,2.15,Ivy,in
+Cappuccino,Hot Drinks,Large,2/15/2024,14:52,1,3.75,Jake,out
+Cold Mocha,Cold Drinks,Medium,2/15/2024,15:08,1,4,Kara,in
+White Mocha,Hot Drinks,Medium,2/15/2024,15:24,1,4.5,Liam,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/15/2024,15:40,1,5.5,Mia,in
+Flat White,Hot Drinks,N/A,2/15/2024,15:56,1,3.15,Noel,out
+Iced Tea,Cold Drinks,Large,2/15/2024,16:12,1,3.55,Ophelia,in
+Hot Chocolate,Hot Drinks,Large,2/15/2024,16:28,1,4.6,Pablo,out
+Mocha,Hot Drinks,Medium,2/15/2024,17:00,1,4,Rita,out
+Flat White,Hot Drinks,N/A,2/16/2024,7:08,1,3.15,Sarah,out
+White Mocha,Hot Drinks,Large,2/16/2024,7:15,1,4.7,Mike,in
+Cold Mocha,Cold Drinks,Large,2/16/2024,7:22,1,4.6,Lucy,N/A
+Lemonade,Cold Drinks,Large,2/16/2024,7:22,1,3.75,Lucy,out
+Latte,Hot Drinks,Large,2/16/2024,7:29,1,3.75,Tony,in
+White Mocha,Hot Drinks,Medium,2/16/2024,7:43,1,4.5,Greg,in
+Cold Coffee,Cold Drinks,Medium,2/16/2024,7:51,1,3.45,Hannah,out
+Cappuccino,Hot Drinks,Medium,2/16/2024,7:58,1,3.45,Ivan,in
+Caramel Macchiato,Hot Drinks,Medium,2/16/2024,7:58,1,4.2,Ivan,N/A
+Iced Tea,Cold Drinks,Medium,2/16/2024,8:05,1,3.25,Julia,out
+Sandwich Ham&Cheese,Snacks,N/A,2/16/2024,8:12,1,5.6,Karl,in
+Mocha,Hot Drinks,Medium,2/16/2024,8:19,1,4,Leah,out
+Latte,Hot Drinks,Medium,2/16/2024,8:26,1,3.45,Max,in
+Iced Tea,Cold Drinks,Large,2/16/2024,8:26,1,3.55,Max,N/A
+Caramel Macchiato,Hot Drinks,Large,2/16/2024,8:33,1,4.6,Nora,out
+Hot Chocolate,Hot Drinks,Medium,2/16/2024,8:40,1,4.2,Oscar,in
+Mocha,Hot Drinks,Large,2/16/2024,8:55,1,4.6,Quinn,in
+Espresso,Hot Drinks,N/A,2/16/2024,9:02,1,2.15,Rita,out
+Cappuccino,Hot Drinks,Large,2/16/2024,9:09,1,3.75,Steve,in
+Hot Chocolate,Hot Drinks,Large,2/16/2024,9:09,1,4.6,Steve,N/A
+Cold Mocha,Cold Drinks,Medium,2/16/2024,9:16,1,4,Tina,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/16/2024,9:23,1,5.5,Uma,in
+Lemonade,Cold Drinks,Medium,2/16/2024,9:30,1,3.35,Victor,out
+Cold Coffee,Cold Drinks,Large,2/16/2024,9:38,1,3.75,Wendy,in
+Cappuccino,Hot Drinks,Medium,2/16/2024,9:59,1,3.45,Zack,out
+Latte,Hot Drinks,Medium,2/16/2024,10:05,1,3.45,Alice,in
+Iced Tea,Cold Drinks,Large,2/16/2024,10:21,1,3.55,Ben,out
+Espresso,Hot Drinks,N/A,2/16/2024,10:38,1,2.15,Carla,in
+Cold Mocha,Cold Drinks,Medium,2/16/2024,10:54,1,4,David,out
+White Mocha,Hot Drinks,Large,2/16/2024,11:10,1,4.7,Elena,in
+Caramel Macchiato,Hot Drinks,Medium,2/16/2024,11:26,1,4.2,Frank,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/16/2024,11:43,1,5.5,Gina,in
+White Mocha,Hot Drinks,Medium,2/16/2024,11:59,1,4.5,Harry,out
+Lemonade,Cold Drinks,Large,2/16/2024,12:06,1,3.75,Iris,in
+Flat White,Hot Drinks,N/A,2/16/2024,12:12,1,3.15,Jack,out
+Mocha,Hot Drinks,Medium,2/16/2024,12:19,1,4,Kiera,in
+Hot Chocolate,Hot Drinks,Medium,2/16/2024,12:19,1,4.2,Kiera,N/A
+Cold Mocha,Cold Drinks,Large,2/16/2024,12:25,1,4.6,Luke,out
+Cappuccino,Hot Drinks,Medium,2/16/2024,12:32,1,3.45,Mia,in
+Latte,Hot Drinks,Large,2/16/2024,12:45,1,3.75,Oscar,in
+Mocha,Hot Drinks,Large,2/16/2024,12:51,1,4.6,Priya,out
+Cold Mocha,Cold Drinks,Medium,2/16/2024,12:58,1,4,Quinn,in
+Sandwich Ham&Cheese,Snacks,N/A,2/16/2024,12:58,1,5.6,Quinn,N/A
+Caramel Macchiato,Hot Drinks,Medium,2/16/2024,13:04,1,4.2,Ravi,out
+Hot Chocolate,Hot Drinks,Large,2/16/2024,13:11,1,4.6,Sarah,in
+Espresso,Hot Drinks,N/A,2/16/2024,13:24,1,2.15,Uma,in
+Iced Tea,Cold Drinks,Large,2/16/2024,13:30,1,3.55,Vicky,out
+White Mocha,Hot Drinks,Large,2/16/2024,13:37,1,4.7,Wendy,in
+Iced Tea,Cold Drinks,Medium,2/16/2024,13:43,1,3.25,Xian,out
+Latte,Hot Drinks,Medium,2/16/2024,13:50,1,3.45,Yara,in
+Caramel Macchiato,Hot Drinks,Large,2/16/2024,13:56,1,4.6,Zack,out
+Cold Coffee,Cold Drinks,Medium,2/16/2024,14:03,1,3.45,Amelia,in
+Sandwich Salami&Mozzarella,Snacks,N/A,2/16/2024,14:03,1,5.5,Amelia,N/A
+Cappuccino,Hot Drinks,Large,2/16/2024,14:09,1,3.75,Brad,out
+Lemonade,Cold Drinks,Medium,2/16/2024,14:16,1,3.35,Cindy,in
+White Mocha,Hot Drinks,Medium,2/16/2024,14:22,1,4.5,Derek,out
+Cold Coffee,Cold Drinks,Large,2/16/2024,14:35,1,3.75,Faisal,out
+Flat White,Hot Drinks,N/A,2/16/2024,14:42,1,3.15,Georgia,in
+Lemonade,Cold Drinks,Large,2/16/2024,14:48,1,3.75,Haris,out
+Mocha,Hot Drinks,Medium,2/16/2024,14:55,1,4,Ida,in
+Cold Mocha,Cold Drinks,Large,2/16/2024,15:08,1,4.6,Kurt,in
+Latte,Hot Drinks,Medium,2/16/2024,15:14,1,3.45,Lana,out
+Hot Chocolate,Hot Drinks,Large,2/16/2024,15:21,1,4.6,Moe,in
+Lemonade,Cold Drinks,Large,2/16/2024,15:34,1,3.75,Ian,out
+Mocha,Hot Drinks,Medium,2/16/2024,15:54,1,4,Jenna,in
+Flat White,Hot Drinks,N/A,2/16/2024,16:14,1,3.15,Keith,out
+Cold Mocha,Cold Drinks,Large,2/16/2024,16:34,1,4.6,Lila,in
+Cappuccino,Hot Drinks,Medium,2/16/2024,16:54,1,3.45,Mason,out
+Hot Chocolate,Hot Drinks,Large,2/16/2024,17:00,1,4.6,Nora,in
+Cappuccino,Hot Drinks,Medium,2/17/2024,7:03,1,3.45,Susie,in
+Cold Mocha,Cold Drinks,Medium,2/17/2024,7:08,1,4,Tom,out
+Sandwich Ham&Cheese,Snacks,N/A,2/17/2024,7:08,1,5.6,Tom,N/A
+Latte,Hot Drinks,Large,2/17/2024,7:13,1,3.75,Ulla,in
+Iced Tea,Cold Drinks,Large,2/17/2024,7:18,1,3.55,Victor,N/A
+Mocha,Hot Drinks,Medium,2/17/2024,7:23,1,4,Wendy,in
+Hot Chocolate,Hot Drinks,Large,2/17/2024,7:28,1,4.6,Xavier,out
+Caramel Macchiato,Hot Drinks,Large,2/17/2024,7:28,1,4.6,Xavier,N/A
+Lemonade,Cold Drinks,Large,2/17/2024,7:34,1,3.75,Yara,in
+Flat White,Hot Drinks,N/A,2/17/2024,7:39,1,3.15,Zoe,out
+White Mocha,Hot Drinks,Large,2/17/2024,7:44,1,4.7,Amy,in
+Cold Mocha,Cold Drinks,Large,2/17/2024,7:44,1,4.6,Amy,N/A
+Latte,Hot Drinks,Medium,2/17/2024,7:54,1,3.45,Cara,in
+Cold Coffee,Cold Drinks,Large,2/17/2024,7:59,1,3.75,Dan,out
+Espresso,Hot Drinks,N/A,2/17/2024,7:59,1,2.15,Dan,N/A
+White Mocha,Hot Drinks,Medium,2/17/2024,8:04,1,4.5,Eve,in
+Sandwich Salami&Mozzarella,Snacks,N/A,2/17/2024,8:10,1,5.5,Finn,out
+Caramel Macchiato,Hot Drinks,Medium,2/17/2024,8:15,1,4.2,Gia,in
+Lemonade,Cold Drinks,Medium,2/17/2024,8:15,1,3.35,Gia,N/A
+Mocha,Hot Drinks,Large,2/17/2024,8:20,1,4.6,Hal,out
+Hot Chocolate,Hot Drinks,Medium,2/17/2024,8:30,1,4.2,Jed,out
+Iced Tea,Cold Drinks,Medium,2/17/2024,8:30,1,3.25,Jed,N/A
+Cappuccino,Hot Drinks,Large,2/17/2024,8:35,1,3.75,Kip,in
+Cold Coffee,Cold Drinks,Medium,2/17/2024,8:45,1,3.45,Moe,in
+Caramel Macchiato,Hot Drinks,Large,2/17/2024,8:51,1,4.6,Nia,out
+Sandwich Ham&Cheese,Snacks,N/A,2/17/2024,8:51,1,5.6,Nia,N/A
+Cappuccino,Hot Drinks,Medium,2/17/2024,8:56,1,3.45,Oli,in
+Cold Mocha,Cold Drinks,Medium,2/17/2024,9:01,1,4,Pam,out
+Latte,Hot Drinks,Large,2/17/2024,9:06,1,3.75,Quin,in
+Iced Tea,Cold Drinks,Large,2/17/2024,9:06,1,3.55,Quin,N/A
+Mocha,Hot Drinks,Medium,2/17/2024,9:11,1,4,Rae,out
+White Mocha,Hot Drinks,Large,2/17/2024,9:21,1,4.7,Ty,out
+Cold Mocha,Cold Drinks,Large,2/17/2024,9:27,1,4.6,Uma,in
+Lemonade,Cold Drinks,Large,2/17/2024,9:27,1,3.75,Uma,N/A
+Flat White,Hot Drinks,N/A,2/17/2024,9:32,1,3.15,Val,out
+White Mocha,Hot Drinks,Medium,2/17/2024,9:37,1,4.5,Wes,in
+Latte,Hot Drinks,Medium,2/17/2024,9:47,1,3.45,Yol,in
+Cold Coffee,Cold Drinks,Large,2/17/2024,9:52,1,3.75,Zed,out
+Sandwich Salami&Mozzarella,Snacks,N/A,2/17/2024,9:52,1,5.5,Zed,N/A
+Espresso,Hot Drinks,N/A,2/17/2024,9:57,1,2.15,Amy,in
+Cold Coffee,Cold Drinks,Large,2/17/2024,10:08,1,3.75,Zack,N/A
+Sandwich Salami&Mozzarella,Snacks,N/A,2/17/2024,10:24,1,5.5,Alex,in
+Espresso,Hot Drinks,N/A,2/17/2024,10:24,1,2.15,Alex,N/A
+Cappuccino,Hot Drinks,Large,2/17/2024,10:40,1,3.75,Brooke,out
+Mocha,Hot Drinks,Large,2/17/2024,10:56,1,4.6,Charles,in
+Flat White,Hot Drinks,N/A,2/17/2024,11:12,1,3.15,Dana,out
+Hot Chocolate,Hot Drinks,Medium,2/17/2024,11:44,1,4.2,Fiona,out
+Lemonade,Cold Drinks,Medium,2/17/2024,12:00,1,3.35,George,in
+Cold Mocha,Cold Drinks,Medium,2/17/2024,12:16,1,4,Heidi,out
+Lemonade,Cold Drinks,Large,2/17/2024,12:00,1,3.75,Ivy,in
+Latte,Hot Drinks,Large,2/17/2024,12:07,1,3.75,Jack,out
+Caramel Macchiato,Hot Drinks,Medium,2/17/2024,12:07,1,4.2,Jack,N/A
+Cold Mocha,Cold Drinks,Large,2/17/2024,12:14,1,4.6,Kiera,in
+White Mocha,Hot Drinks,Medium,2/17/2024,12:21,1,4.5,Leo,out
+Sandwich Ham&Cheese,Snacks,N/A,2/17/2024,12:28,1,5.6,Mia,in
+Mocha,Hot Drinks,Medium,2/17/2024,12:35,1,4,Noah,out
+Cold Coffee,Cold Drinks,Medium,2/17/2024,12:42,1,3.45,Olivia,in
+Latte,Hot Drinks,Medium,2/17/2024,12:56,1,3.45,Quinn,in
+Iced Tea,Cold Drinks,Large,2/17/2024,13:03,1,3.55,Rachel,out
+Hot Chocolate,Hot Drinks,Large,2/17/2024,13:03,1,4.6,Rachel,N/A
+Cappuccino,Hot Drinks,Medium,2/17/2024,13:10,1,3.45,Sam,in
+Espresso,Hot Drinks,N/A,2/17/2024,13:17,1,2.15,Tina,out
+Cold Mocha,Cold Drinks,Medium,2/17/2024,13:24,1,4,Umar,in
+Flat White,Hot Drinks,N/A,2/17/2024,13:31,1,3.15,Vivian,out
+White Mocha,Hot Drinks,Large,2/17/2024,13:38,1,4.7,Wendy,in
+Sandwich Salami&Mozzarella,Snacks,N/A,2/17/2024,13:38,1,5.5,Wendy,N/A
+Mocha,Hot Drinks,Large,2/17/2024,13:45,1,4.6,Xavier,out
+Iced Tea,Cold Drinks,Medium,2/17/2024,13:59,1,3.25,Zack,out
+Caramel Macchiato,Hot Drinks,Large,2/17/2024,14:06,1,4.6,Amelia,in
+Cappuccino,Hot Drinks,Large,2/17/2024,14:13,1,3.75,Brad,out
+Hot Chocolate,Hot Drinks,Medium,2/17/2024,14:20,1,4.2,Chloe,in
+Lemonade,Cold Drinks,Medium,2/17/2024,14:27,1,3.35,Derek,out
+Cold Coffee,Cold Drinks,Large,2/17/2024,14:27,1,3.75,Derek,N/A
+Mocha,Hot Drinks,Medium,2/17/2024,14:41,1,4,Fred,out
+Caramel Macchiato,Hot Drinks,Medium,2/17/2024,14:48,1,4.2,Gina,in
+Sandwich Ham&Cheese,Snacks,N/A,2/17/2024,14:55,1,5.6,Hugh,out
+Cold Mocha,Cold Drinks,Large,2/17/2024,15:02,1,4.6,Iris,in
+White Mocha,Hot Drinks,Medium,2/17/2024,15:02,1,4.5,Iris,N/A
+Cold Coffee,Cold Drinks,Medium,2/17/2024,15:23,1,3.45,Liam,out
+Mocha,Hot Drinks,Medium,2/17/2024,15:55,1,4,Fred,out
+Sandwich Ham&Cheese,Snacks,N/A,2/17/2024,16:11,1,5.6,Gina,in
+Caramel Macchiato,Hot Drinks,Medium,2/17/2024,16:27,1,4.2,Hugh,out
+Cold Mocha,Cold Drinks,Large,2/17/2024,16:43,1,4.6,Iris,in
+Cappuccino,Hot Drinks,Large,2/17/2024,16:59,1,3.75,Jack,out

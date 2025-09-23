@@ -1,0 +1,62 @@
+item_name,item_type,item_size,quantity_sold,ingredient_name,amount_used,amount_in_1_quantity,unit,price_per_quantity,quantity_left_in_inventory
+Cappuccino,Hot Drinks,Large,19,Espresso beans,10,1000,grams,12,4
+Cappuccino,Hot Drinks,Large,19,Whole Milk,180,1000,ml,1.2,55
+Cappuccino,Hot Drinks,Medium,21,Espresso beans,8,1000,grams,12,4
+Cappuccino,Hot Drinks,Medium,21,Whole Milk,130,1000,ml,1.2,55
+Caramel Macchiato,Hot Drinks,Large,17,Barista caramel sauce,30,1000,ml,8.49,1
+Caramel Macchiato,Hot Drinks,Large,17,Espresso beans,10,1000,grams,12,4
+Caramel Macchiato,Hot Drinks,Large,17,Whole Milk,160,1000,ml,1.2,55
+Caramel Macchiato,Hot Drinks,Medium,20,Barista caramel sauce,20,1000,ml,8.49,1
+Caramel Macchiato,Hot Drinks,Medium,20,Espresso beans,8,1000,grams,12,4
+Caramel Macchiato,Hot Drinks,Medium,20,Whole Milk,120,1000,ml,1.2,55
+Cold Coffee,Cold Drinks,Large,18,Espresso beans,10,1000,grams,12,4
+Cold Coffee,Cold Drinks,Large,18,Whole Milk,180,1000,ml,1.2,55
+Cold Coffee,Cold Drinks,Medium,13,Espresso beans,8,1000,grams,12,4
+Cold Coffee,Cold Drinks,Medium,13,Whole Milk,130,1000,ml,1.2,55
+Cold Mocha,Cold Drinks,Large,27,Barista chocolate syrup,30,1000,ml,8.49,3
+Cold Mocha,Cold Drinks,Large,27,Espresso beans,10,1000,grams,12,4
+Cold Mocha,Cold Drinks,Large,27,Whole Milk,160,1000,ml,1.2,55
+Cold Mocha,Cold Drinks,Medium,20,Barista chocolate syrup,20,1000,ml,8.49,3
+Cold Mocha,Cold Drinks,Medium,20,Espresso beans,8,1000,grams,12,4
+Cold Mocha,Cold Drinks,Medium,20,Whole Milk,120,1000,ml,1.2,55
+Espresso,Hot Drinks,N/A,19,Espresso beans,8,1000,grams,12,4
+Flat White,Hot Drinks,N/A,27,Espresso beans,8,1000,grams,12,4
+Flat White,Hot Drinks,N/A,27,Whole Milk,160,1000,ml,1.2,55
+Hot Chocolate,Hot Drinks,Large,22,Chocolate,30,1000,grams,10.5,2
+Hot Chocolate,Hot Drinks,Large,22,Cocoa powder,35,1000,grams,22,5
+Hot Chocolate,Hot Drinks,Large,22,Whipped cream,40,300,ml,1.35,7
+Hot Chocolate,Hot Drinks,Large,22,Whole Milk,180,1000,ml,1.2,55
+Hot Chocolate,Hot Drinks,Medium,13,Chocolate,20,1000,grams,10.5,2
+Hot Chocolate,Hot Drinks,Medium,13,Cocoa powder,25,1000,grams,22,5
+Hot Chocolate,Hot Drinks,Medium,13,Whipped cream,30,300,ml,1.35,7
+Hot Chocolate,Hot Drinks,Medium,13,Whole Milk,130,1000,ml,1.2,55
+Iced Tea,Cold Drinks,Large,21,Black Tea,15,1000,grams,16,2
+Iced Tea,Cold Drinks,Large,21,Sugar,25,1000,grams,1.5,4
+Iced Tea,Cold Drinks,Medium,15,Black Tea,10,1000,grams,16,2
+Iced Tea,Cold Drinks,Medium,15,Sugar,20,1000,grams,1.5,4
+Latte,Hot Drinks,Large,19,Espresso beans,10,1000,grams,12,4
+Latte,Hot Drinks,Large,19,Whole Milk,180,1000,ml,1.2,55
+Latte,Hot Drinks,Medium,19,Espresso beans,8,1000,grams,12,4
+Latte,Hot Drinks,Medium,19,Whole Milk,130,1000,ml,1.2,55
+Lemonade,Cold Drinks,Large,21,Lemons,1,5,units,1.5,10
+Lemonade,Cold Drinks,Large,21,Sugar,40,1000,grams,1.5,4
+Lemonade,Cold Drinks,Medium,19,Lemons,1,5,units,1.5,10
+Lemonade,Cold Drinks,Medium,19,Sugar,30,1000,grams,1.5,4
+Mocha,Hot Drinks,Large,12,Barista chocolate syrup,30,1000,ml,8.49,3
+Mocha,Hot Drinks,Large,12,Espresso beans,10,1000,grams,12,4
+Mocha,Hot Drinks,Large,12,Whole Milk,160,1000,ml,1.2,55
+Mocha,Hot Drinks,Medium,26,Barista chocolate syrup,20,1000,ml,8.49,3
+Mocha,Hot Drinks,Medium,26,Espresso beans,8,1000,grams,12,4
+Mocha,Hot Drinks,Medium,26,Whole Milk,120,1000,ml,1.2,55
+Sandwich Ham&Cheese,Snacks,N/A,16,Cheddar,20,500,grams,7.45,1
+Sandwich Ham&Cheese,Snacks,N/A,16,Ham,50,1000,grams,27.5,3
+Sandwich Ham&Cheese,Snacks,N/A,16,Panini Bread,1,4,units,1.35,20
+Sandwich Salami&Mozzarella,Snacks,N/A,19,Mozzarella,20,500,grams,5,4
+Sandwich Salami&Mozzarella,Snacks,N/A,19,Panini Bread,1,4,units,1.35,20
+Sandwich Salami&Mozzarella,Snacks,N/A,19,Salami,50,1000,grams,15.4,2
+White Mocha,Hot Drinks,Large,20,Barista white chocolate syrup,30,1000,ml,8.49,4
+White Mocha,Hot Drinks,Large,20,Espresso beans,10,1000,grams,12,4
+White Mocha,Hot Drinks,Large,20,Whole Milk,160,1000,ml,1.2,55
+White Mocha,Hot Drinks,Medium,23,Barista white chocolate syrup,20,1000,ml,8.49,4
+White Mocha,Hot Drinks,Medium,23,Espresso beans,8,1000,grams,12,4
+White Mocha,Hot Drinks,Medium,23,Whole Milk,120,1000,ml,1.2,55
