@@ -29,6 +29,12 @@ Connected tranformed data to build an interactive dashboard with KPIs and charts
 
 ---
 
+## How To use
+- Click the link: https://public.tableau.com/views/BusinessInsightsDashborad/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Use the interactive slicers and filters to analyze sales, cost, staffing, and inventory 
+
+---
+
 ## Dashborad Preview
 <img width="2212" height="1010" alt="image" src="https://github.com/user-attachments/assets/81aba625-c967-4da2-912d-446445885497" />
 
