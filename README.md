@@ -22,7 +22,7 @@ Connected tranformed data to build an interactive dashboard with KPIs and charts
 
 ## Goals & Insights
 - Provide KPIs like total sales, cost, revenue and profit for fast data driven decisions.
-- Identify reveneu & profit opportunities through houurly sale trends by item type/size.
+- Identify reveneu & profit opportunities through hourly sale trends by item type/size.
 - Analyze customer preference by comparing dine-in vs. take-out behaviors.  
 - Optimize staff scheduling by examining employee hours, shifts, and labor cost.
 - Monitor inventory by tracking ingrdient usage, stock levels, and restocking needs.
