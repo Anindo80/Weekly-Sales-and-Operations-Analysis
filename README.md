@@ -36,7 +36,8 @@ Connected tranformed data to build an interactive dashboard with KPIs and charts
 ---
 
 ## Dashborad Preview
-<img width="2212" height="1010" alt="image" src="https://github.com/user-attachments/assets/81aba625-c967-4da2-912d-446445885497" />
+<img width="2218" height="1005" alt="image" src="https://github.com/user-attachments/assets/776fd8d7-a537-40b3-bad8-81403ce11ae4" />
+
 
 
 
