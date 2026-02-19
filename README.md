@@ -1,4 +1,4 @@
-# Business Insights Dashboard
+# Weekly Sales and Operations Analysis
 
 ## Project Overview
 This project analyzes a coffee shop's operations over a 6 day period using sales, staffing, and inventory data . An interactive dashboard was developed to uncover insights on top selling items, peak hours, costs, staffing, and profit to make strategic data-driven decisions.
