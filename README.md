@@ -51,7 +51,8 @@ This project focuses on exploratory data analysis (EDA) to:
 
 ---
 
-Dashboard Link: https://public.tableau.com/views/BusinessInsightsDashborad/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Dashboard Link:
+https://public.tableau.com/views/BusinessInsightsDashborad/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
