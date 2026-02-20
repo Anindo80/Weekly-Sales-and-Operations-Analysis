@@ -1,0 +1,62 @@
+item_name,item_type,item_size,ingredient_name,amount_used,amount_in_1_quantity,unit,price_per_quantity,quantity_left_in_inventory
+Cappuccino,"Hot Drinks",Medium,"Whole Milk",130,1000,ml," 1.20",55
+Cappuccino,"Hot Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+Cappuccino,"Hot Drinks",Large,"Whole Milk",180,1000,ml," 1.20",55
+Cappuccino,"Hot Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+Latte,"Hot Drinks",Medium,"Whole Milk",130,1000,ml," 1.20",55
+Latte,"Hot Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+Latte,"Hot Drinks",Large,"Whole Milk",180,1000,ml," 1.20",55
+Latte,"Hot Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+"Flat White","Hot Drinks",N/A,"Whole Milk",160,1000,ml," 1.20",55
+"Flat White","Hot Drinks",N/A,"Espresso beans",8,1000,grams," 12.0",4
+"Caramel Macchiato","Hot Drinks",Medium,"Barista caramel sauce",20,1000,ml," 8.49",1
+"Caramel Macchiato","Hot Drinks",Medium,"Whole Milk",120,1000,ml," 1.20",55
+"Caramel Macchiato","Hot Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+"Caramel Macchiato","Hot Drinks",Large,"Barista caramel sauce",30,1000,ml," 8.49",1
+"Caramel Macchiato","Hot Drinks",Large,"Whole Milk",160,1000,ml," 1.20",55
+"Caramel Macchiato","Hot Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+Espresso,"Hot Drinks",N/A,"Espresso beans",8,1000,grams," 12.0",4
+Mocha,"Hot Drinks",Medium,"Barista chocolate syrup",20,1000,ml," 8.49",3
+Mocha,"Hot Drinks",Medium,"Whole Milk",120,1000,ml," 1.20",55
+Mocha,"Hot Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+Mocha,"Hot Drinks",Large,"Barista chocolate syrup",30,1000,ml," 8.49",3
+Mocha,"Hot Drinks",Large,"Whole Milk",160,1000,ml," 1.20",55
+Mocha,"Hot Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+"White Mocha","Hot Drinks",Medium,"Barista white chocolate syrup",20,1000,ml," 8.49",4
+"White Mocha","Hot Drinks",Medium,"Whole Milk",120,1000,ml," 1.20",55
+"White Mocha","Hot Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+"White Mocha","Hot Drinks",Large,"Barista white chocolate syrup",30,1000,ml," 8.49",4
+"White Mocha","Hot Drinks",Large,"Whole Milk",160,1000,ml," 1.20",55
+"White Mocha","Hot Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+"Hot Chocolate","Hot Drinks",Medium,"Whipped cream",30,300,ml," 1.35",7
+"Hot Chocolate","Hot Drinks",Medium,Chocolate,20,1000,grams," 10.5",2
+"Hot Chocolate","Hot Drinks",Medium,"Cocoa powder",25,1000,grams," 22.0",5
+"Hot Chocolate","Hot Drinks",Medium,"Whole Milk",130,1000,ml," 1.20",55
+"Hot Chocolate","Hot Drinks",Large,"Whipped cream",40,300,ml," 1.35",7
+"Hot Chocolate","Hot Drinks",Large,Chocolate,30,1000,grams," 10.5",2
+"Hot Chocolate","Hot Drinks",Large,"Cocoa powder",35,1000,grams," 22.0",5
+"Hot Chocolate","Hot Drinks",Large,"Whole Milk",180,1000,ml," 1.20",55
+"Cold Coffee","Cold Drinks",Medium,"Whole Milk",130,1000,ml," 1.20",55
+"Cold Coffee","Cold Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+"Cold Coffee","Cold Drinks",Large,"Whole Milk",180,1000,ml," 1.20",55
+"Cold Coffee","Cold Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+"Cold Mocha","Cold Drinks",Medium,"Barista chocolate syrup",20,1000,ml," 8.49",3
+"Cold Mocha","Cold Drinks",Medium,"Whole Milk",120,1000,ml," 1.20",55
+"Cold Mocha","Cold Drinks",Medium,"Espresso beans",8,1000,grams," 12.0",4
+"Cold Mocha","Cold Drinks",Large,"Barista chocolate syrup",30,1000,ml," 8.49",3
+"Cold Mocha","Cold Drinks",Large,"Whole Milk",160,1000,ml," 1.20",55
+"Cold Mocha","Cold Drinks",Large,"Espresso beans",10,1000,grams," 12.0",4
+"Iced Tea","Cold Drinks",Medium,Sugar,20,1000,grams," 1.50",4
+"Iced Tea","Cold Drinks",Medium,"Black Tea",10,1000,grams," 16.0",2
+"Iced Tea","Cold Drinks",Large,Sugar,25,1000,grams," 1.50",4
+"Iced Tea","Cold Drinks",Large,"Black Tea",15,1000,grams," 16.0",2
+Lemonade,"Cold Drinks",Medium,Sugar,30,1000,grams," 1.50",4
+Lemonade,"Cold Drinks",Medium,Lemons,1,5,units," 1.50",10
+Lemonade,"Cold Drinks",Large,Sugar,40,1000,grams," 1.50",4
+Lemonade,"Cold Drinks",Large,Lemons,1,5,units," 1.50",10
+"Sandwich Ham&Cheese",Snacks,N/A,Cheddar,20,500,grams," 7.45",1
+"Sandwich Ham&Cheese",Snacks,N/A,Ham,50,1000,grams," 27.5",3
+"Sandwich Ham&Cheese",Snacks,N/A,"Panini Bread",1,4,units," 1.35",20
+"Sandwich Salami&Mozzarella",Snacks,N/A,Mozzarella,20,500,grams," 5.00",4
+"Sandwich Salami&Mozzarella",Snacks,N/A,Salami,50,1000,grams," 15.4",2
+"Sandwich Salami&Mozzarella",Snacks,N/A,"Panini Bread",1,4,units," 1.35",20
