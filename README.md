@@ -28,7 +28,7 @@ This project focuses on exploratory data analysis (EDA) to:
 
 ## Skills:
 - Excel: Data cleaning, Formatting, Data validation, Formulas, VLOOKUP
-- SQL: Data Extraction, Joins, Grouping, Case statements, Conditional Logic
+- SQL (MySQL Workbench): Data Extraction, Joins, Grouping, Case statements, Conditional Logic
 - Tableau: Calculated fields, KPI cards, Data Visualization, Dashboard design, Storytelling with visuals
 
 ---
